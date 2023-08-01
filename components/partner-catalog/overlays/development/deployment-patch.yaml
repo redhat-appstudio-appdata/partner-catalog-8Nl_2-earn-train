@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/nvinto-tenant/partner-catalog/partner-catalog@sha256:c18a7f154cf47635ae871621433972fb2bd364a0789bc631837ce98d2f0e7a54
+      - image: quay.io/redhat-user-workloads/nvinto-tenant/partner-catalog/partner-catalog@sha256:44cad0ab170bb20f40d7fd5c385e1837bad334f774bbb9704259470ff201ff1a
         name: my-java-springboot
         resources: {}
 status: {}
